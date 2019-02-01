@@ -2631,14 +2631,14 @@ input, select, textarea {
 				float: left;
 				margin-right:  auto;
 				margin-right: auto;
-				width: 30%;
+				width: 50%;
 				box-shadow: none;
 			}
 			.img2 img{
 				float: left;
 				margin-right:  auto;
 				margin-right: auto;
-				width: 10%;
+				width: 50%;
 				transform: rotate(-90deg);
 				box-shadow: none;
 			}
