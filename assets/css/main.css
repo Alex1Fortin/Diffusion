@@ -2631,7 +2631,15 @@ input, select, textarea {
 
 				margin-right:  auto;
 				margin-right: auto;
-				width: 25%;
+				width: 30%;
+				box-shadow: none;
+			}
+			.img2 img{
+
+				margin-right:  auto;
+				margin-right: auto;
+				width: 10%;
+				transform: rotate(-90deg);
 				box-shadow: none;
 			}
 
