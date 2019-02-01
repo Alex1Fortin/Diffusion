@@ -2638,7 +2638,7 @@ input, select, textarea {
 				float: left;
 				margin-right:  auto;
 				margin-right: auto;
-				width: 50%;
+				width: auto;
 				transform: rotate(-90deg);
 				box-shadow: none;
 			}
