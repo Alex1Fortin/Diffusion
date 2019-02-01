@@ -2634,15 +2634,11 @@ input, select, textarea {
 				width: 50%;
 				box-shadow: none;
 			}
-			.img2 {
-				float: left;
-				margin-right:  auto;
-				margin-right: auto;
-				max-width: 50%
-				height: auto;
+			#rot.img {
 				transform: rotate(-90deg);
-				box-shadow: none;
+				
 			}
+			
 
 
 
