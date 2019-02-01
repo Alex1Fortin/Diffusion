@@ -29,17 +29,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-img {
-	margin-left: center;
-	width: 25%;
-	box-shadow: none;
 
-}
-.img2	{
-	margin: auto;
-	width: 10%;
-	box-shadow: none;
-	transform: rotate(90deg);
 }
 body {
 	line-height: 1;
@@ -2636,6 +2626,19 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
+
+			.img1 img{
+
+				margin-right:  auto;
+				margin-right: auto;
+				width: 25%;
+				box-shadow: none;
+			}
+
+
+
+
+			
 
 		@media screen and (max-width: 736px) {
 
