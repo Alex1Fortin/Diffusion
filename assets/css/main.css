@@ -36,7 +36,12 @@ img {
 	box-shadow: none;
 
 }
-	
+.img2	{
+	margin-left: auto;
+	margin-right: auto;
+	width: 10%;
+	box-shadow: none;
+}
 body {
 	line-height: 1;
 }
