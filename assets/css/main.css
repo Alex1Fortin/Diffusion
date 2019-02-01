@@ -30,15 +30,13 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 img {
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: center;
 	width: 25%;
 	box-shadow: none;
 
 }
 .img2	{
-	margin-left: auto;
-	margin-right: auto;
+	margin: auto;
 	width: 10%;
 	box-shadow: none;
 	transform: rotate(90deg);
