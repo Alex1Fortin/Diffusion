@@ -28,7 +28,12 @@ section, summary, time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
-
+	.img1{
+		display: block;
+  		margin-left: auto;
+ 		margin-right: auto;
+  		width: 50%;
+	}
 body {
 	line-height: 1;
 }
@@ -45,12 +50,7 @@ blockquote, q {
 		content: '';
 		content: none;
 	}
-img1{
-	display: block;
-  	margin-left: auto;
- 	margin-right: auto;
-  	width: 50%;
-}
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
