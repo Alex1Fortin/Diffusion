@@ -2627,14 +2627,14 @@ input, select, textarea {
 				width: 100%;
 			}
 
-			.img1 img{
+			.img1 {
 				float: left;
 				margin-right:  auto;
 				margin-right: auto;
 				width: 50%;
 				box-shadow: none;
 			}
-			.img2 img{
+			.img2 {
 				float: left;
 				margin-right:  auto;
 				margin-right: auto;
